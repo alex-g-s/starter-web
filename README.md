@@ -7,7 +7,9 @@ Sample website project.
 This is example 
 
 ## Purpose
+Example purpose
 
 ## Deployment
 
 Sample website with plenty of files for demos
+2nd row
