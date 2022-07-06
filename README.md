@@ -14,5 +14,8 @@ Example purpose
 Sample website with plenty of files for demos
 2nd row
 
+##How to contribute
+Please fork this repo
+
 ### Copyright
 2014 git training
