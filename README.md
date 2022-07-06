@@ -13,3 +13,6 @@ Example purpose
 
 Sample website with plenty of files for demos
 2nd row
+
+### Copyright
+2014 git training
